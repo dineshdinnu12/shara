@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>sahara web</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+</head>
+
+
+<body>
+<div class="container">
+<div class="nav">
+<nav>
+
+    <ul>
+	   <li><a href="">HOME</a></li>
+	    <li><a href="">REGION</a></li>
+		 <li><a href="">ABOUT</a></li>	
+</nav>		 
+
+</div>
+<div class="row">
+<div class="col">
+   <h1>Sahara</h1>
+   <p>The Sahara (/səˈhɑːrə/, /səˈhærə/; Arabic: الصحراء الكبرى, aṣ-ṣaḥrāʼ al-kubrá, 'the Greatest Desert') is a desert on the African continent. With an area of 9,200,000 square kilometres (3,600,000 sq mi), it is the largest hot desert in the world and the third largest desert overall, smaller only than the deserts of Antarctica and the northern Arctic.[1][2][3]</p>
+   <button type="button">Explore</button>
+</div>
+<div class="col">
+
+
+<div class="card">
+<h5> picture 01</h5>
+</div>
+<div class="card">
+<h5> picture 02</h5>
+</div>
+<div class="card">
+<h5> picture 03</h5>
+</div>
+<div class="card">
+<h5> picture 04</h5>
+</div>
+</div>
+
+</div>
+</body>
+</html>
